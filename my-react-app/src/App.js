@@ -38,7 +38,7 @@ export default function App() {
               <h1>Hello, Friend!</h1>
               <p>Enter your personal details and start journey with us</p>
               <button
-                className="ghost "
+                className="ghost"
                 id="signUp"
                 onClick={() => handleOnClick("signUp")}
               >
